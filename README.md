@@ -1,7 +1,7 @@
 # Resolucion de conflictos con GIT 
 
 ## Autores del conflicto 
-- [Sara Nuñez](https://github.com/sarannz0)
+- [Marcela](https://github.com/MarcelaSerrano98)
 
 ## Autores de paz 
-- [Camper](https://github.com/sarannz0)
+- [Joan Jaimes](https://github.com/Sebas-cmd-0917)
